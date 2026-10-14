@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DiceGame/DiceGame.csproj" />
+  <Project Path="StudentInformation/StudentInformation.csproj" />
+</Solution>
